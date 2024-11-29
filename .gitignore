@@ -1,0 +1,26 @@
+.bash_history
+	.bash_logout
+	.bashrc
+	.cache/
+	.config/
+	.gitconfig
+	.lesshst
+	.local/
+	.profile
+	.ssh/
+	.sudo_as_admin_successful
+	.vboxclient-clipboard-tty2-control.pid
+	.vboxclient-clipboard-tty2-service.pid
+	.vboxclient-draganddrop-tty2-control.pid
+	.vboxclient-hostversion-tty2-control.pid
+	.vboxclient-seamless-tty2-control.pid
+	.vboxclient-vmsvga-session-tty2-control.pid
+	.vboxclient-vmsvga-session-tty2-service.pid
+	dirclean
+	docker-setup/
+	file_new_abs
+	ownersort.sh
+	pets/
+	snap/
+	test3/
+	"\320\230\320\267\320\276\320\261\321\200\320\260\320\266\320\265\320\275\320\270\321\217/"
